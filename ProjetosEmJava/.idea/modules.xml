@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosEmJava.iml" filepath="$PROJECT_DIR$/.idea/ProjetosEmJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agendaContatos/agendaContatos.iml" filepath="$PROJECT_DIR$/agendaContatos/agendaContatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraSimples/calculadoraSimples.iml" filepath="$PROJECT_DIR$/calculadoraSimples/calculadoraSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toDoList/toDoList.iml" filepath="$PROJECT_DIR$/toDoList/toDoList.iml" />
+    </modules>
+  </component>
+</project>
